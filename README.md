@@ -5,7 +5,7 @@
 [![Status Projeto](https://img.shields.io/badge/Status-Case%20de%20Sucesso-00B34D?style=for-the-badge&logo=checkmark&logoColor=white&labelColor=232B38)](https://www.linkedin.com/in/itilmgf/)
 [![Área de Foco](https://img.shields.io/badge/Foco-Supply%20Chain%20%26%20Estoque-FFD700?style=for-the-badge&logo=delivery&logoColor=333333&labelColor=4B8BBE)](https://www.linkedin.com/in/itilmgf/)
 [![Melhoria %](https://img.shields.io/badge/Disponibilidade%20M%C3%A9dia-Acima%20de%2099%25-00B34D?style=for-the-badge&logo=trend&logoColor=white&labelColor=232B38)](https://www.linkedin.com/in/itilmgf/)
-[![Ferramentas](https://img.shields.io/badge/Stack-DuckDB%2C%20Python%2C%20PowerBI-4B8BBE?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=232B38)](https://www.linkedin.com/in/itilmgf/)
+[![Ferramentas](https://img.shields.io/badge/Stack-DuckDB%2C%20Python%2C%20Pandas-4B8BBE?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=232B38)](https://www.linkedin.com/in/itilmgf/)
 
 ---
 
